@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaivin Chudasama</h1>
 <h3 align="center">IT student from Gujarat, India, turning curiosity into skills in cybersecurity, web technologies, and digital innovation.</h3>
 
-<img align="left" alt="cooding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right" alt="cooding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+
+
 
 
 
