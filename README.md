@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaivin Chudasama</h1>
 <h3 align="center">IT student from Gujarat, India, turning curiosity into skills in cybersecurity, web technologies, and digital innovation.</h3>
 
-
-<img align="right" alt="cooding" width="400"src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/434714f8-cd72-4f89-8f36-6c23f6c86f99" />
+<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaivin184chudasama-collab&label=Profile%20views&color=0e75b6&style=flat" alt="jaivin184chudasama-collab" /> </p>
 
