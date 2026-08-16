@@ -1,3 +1,4 @@
+![logo](githubbenner.jaivin.jpeg)
 <h1 align="center">Hi 👋, I'm Jaivin Chudasama</h1>
 <h3 align="center">IT student from Gujarat, India, turning curiosity into skills in cybersecurity, web technologies, and digital innovation.</h3>
 
