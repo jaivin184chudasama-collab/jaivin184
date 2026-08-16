@@ -2,7 +2,7 @@
 <h3 align="center">IT student from Gujarat, India, turning curiosity into skills in cybersecurity, web technologies, and digital innovation.</h3>
 
 
-
+<img align="left" alt="cooding" width="400"src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/434714f8-cd72-4f89-8f36-6c23f6c86f99" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaivin184chudasama-collab&label=Profile%20views&color=0e75b6&style=flat" alt="jaivin184chudasama-collab" /> </p>
 
